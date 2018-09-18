@@ -1,2 +1,5 @@
 Formatge
 Tomata
+Pinya
+Peperoni
+
